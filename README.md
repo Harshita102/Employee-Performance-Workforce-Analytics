@@ -1,6 +1,5 @@
-# Employee-Performance-Workforce-Analytics
-
 # Employee Performance & Workforce Analytics
+
 ## Project Overview
 
 Employee Performance & Workforce Analytics is a data analytics project developed to analyze employee performance, productivity, attendance, workforce structure, and attrition-related patterns.
